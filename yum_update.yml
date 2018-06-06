@@ -1,6 +1,6 @@
 --- #Playbook to do susyem update using Yum
 
-- hosts: upgrade
+- hosts: TestDev
   gather_facts: no
   become: yes
 
